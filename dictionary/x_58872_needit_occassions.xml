@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="99c8bad747f6111018ca2c44846d437b" label="Occassions" max_length="40" name="x_58872_needit_occassions" type="collection">
+        <element label="Ocassion date" max_length="40" name="ocassion_date" type="glide_date"/>
+        <element choice="1" label="Special ocassion" max_length="40" name="special_ocassion" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
